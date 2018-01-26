@@ -1,0 +1,6 @@
+C:\CIS1533\BasicConsoleApplication\BasicConsoleApplication\bin\Debug\BasicConsoleApplication.exe.config
+C:\CIS1533\BasicConsoleApplication\BasicConsoleApplication\obj\Debug\BasicConsoleApplication.csprojResolveAssemblyReference.cache
+C:\CIS1533\BasicConsoleApplication\BasicConsoleApplication\bin\Debug\BasicConsoleApplication.exe
+C:\CIS1533\BasicConsoleApplication\BasicConsoleApplication\bin\Debug\BasicConsoleApplication.pdb
+C:\CIS1533\BasicConsoleApplication\BasicConsoleApplication\obj\Debug\BasicConsoleApplication.exe
+C:\CIS1533\BasicConsoleApplication\BasicConsoleApplication\obj\Debug\BasicConsoleApplication.pdb
